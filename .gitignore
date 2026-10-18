@@ -1,0 +1,15 @@
+node_modules/
+.next/
+.next-dev/
+.next-build/
+.env*
+!.env.example
+*.tsbuildinfo
+.vercel/
+public/pdf.worker.min.mjs
+public/onnx/
+public/pdf-fonts/
+public/pdf-cmaps/
+public/pdf-wasm/
+supabase/.temp/
+supabase/.branches/

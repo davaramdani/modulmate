@@ -1,0 +1,13 @@
+node_modules/
+.next/
+.next-dev/
+.next-build/
+.env*
+!.env.example
+*.tsbuildinfo
+public/pdf.worker.min.mjs
+public/onnx/
+public/pdf-fonts/
+public/pdf-cmaps/
+public/pdf-wasm/
+.git/
